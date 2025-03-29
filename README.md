@@ -2,7 +2,7 @@
 - 👋 Hola, Soy @MrPerroma
 - 👀 Estoy interesado en los temas Linux (Debian/Ubuntu) y programación JavaScript.
 - 🌱 Normalmente suelo testear y programar cosas simples.
-- 😄 Pronouns: Él/Ellos.
+- 😄 Pronombres: Él/Ellos.
 
 # English Version
 - 👋 Hi, I'm @MrPerroma
