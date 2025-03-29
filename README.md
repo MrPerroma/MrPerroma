@@ -4,7 +4,7 @@
 - 🌱 Normalmente suelo testear y programar cosas simples.
 - 😄 Pronouns: Él/Ellos.
 
-# Inglish Version
+# English Version
 - 👋 Hi, I'm @MrPerroma
 - 👀 I'm interested in Linux (Debia) and JavaScript programming.
 - 🌱 I usually test and program simple things.
