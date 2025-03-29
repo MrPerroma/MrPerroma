@@ -1,12 +1,12 @@
 # Spanish Version
 - 👋 Hola, Soy @MrPerroma
-- 👀 Estoy interesado en los temas Linux (Debia) y programación JavaScript.
+- 👀 Estoy interesado en los temas Linux (Debian/Ubuntu) y programación JavaScript.
 - 🌱 Normalmente suelo testear y programar cosas simples.
 - 😄 Pronouns: Él/Ellos.
 
 # English Version
 - 👋 Hi, I'm @MrPerroma
-- 👀 I'm interested in Linux (Debia) and JavaScript programming.
+- 👀 I'm interested in Linux (Debian/Ubuntu) and JavaScript programming.
 - 🌱 I usually test and program simple things.
 - 😄 Pronouns: He/They.
 
